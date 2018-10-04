@@ -10,7 +10,13 @@ visualizar relacion entre las variables
 buscar valores fueras de rango
 
 #Proceso04
-Interpretación de las variables
+interpretación de las variables 
+geopandas y nuevas variables
 
 #Proceso05
-visualizar mapa palermo, deptos
+
+modelos
+
+proceso05_ElasticNet.ipynb
+proceso05_lasso_ridge.ipynb
+proceso05_lr.ipynb
